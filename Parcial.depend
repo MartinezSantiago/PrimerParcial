@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1636112155 source:c:\users\usuario\desktop\programación\parcial\elemento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Elemento.h"
+
+1636112455 c:\users\usuario\desktop\programación\parcial\elemento.h
+
+1636112209 source:c:\users\usuario\desktop\programación\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Elemento.h"
+
+1636112155 source:c:\users\usuario\desktop\programación\programación c\parcial\elemento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Elemento.h"
+
+1636112455 c:\users\usuario\desktop\programación\programación c\parcial\elemento.h
+
+1638478344 source:c:\users\usuario\desktop\programación\programación c\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Elemento.h"
+
